@@ -1,5 +1,3 @@
-:
-
 👋 Hi, I’m Adme Ricardo (@WebDisciple)
 🚀 Passionate Web Developer & Game Developer in the making!
 
@@ -20,8 +18,10 @@ Indie game development (prototyping, mechanics, UI design)
 Open-source tools & utilities for developers
 
 📫 How to reach me
-Facebook Page & Groups: Web Disciple
+Facebook Page & Groups: https://web.facebook.com/profile.php?id=100029548695114
+
 Website/Portfolio: https://webdiciples.kesug.com/
+
 WhatsApp Business https://wa.me/+50946986059
 
 
